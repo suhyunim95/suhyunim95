@@ -6,6 +6,7 @@
 - 🏥 I'm interested in solving _healthcare_ problems using Data Science (especially, **mental health**).
 - 🌱 I'm working with **Python, R, SQL, SAS, PySpark** and still learning.
 - 💗 I enjoy cooking, baking, workout, reading, writing, puzzle, and crochet.
-- 📬 You can reach me at
--- Email: suhyunim95@gmail.com
--- Linkedin: https://www.linkedin.com/in/suhyunim95/
+
+#### 📬 You can reach me at
+- Email: suhyunim95@gmail.com
+- Linkedin: https://www.linkedin.com/in/suhyunim95/
