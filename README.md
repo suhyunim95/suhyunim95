@@ -9,5 +9,5 @@
 - 💗 I enjoy cooking, baking, workout, reading, writing, puzzle, and crochet.
 
 #### 📬 You can reach me at
-- Email: sxi170730@utdallas.edu
+- Email: suhyunim95@gmail.com
 - Linkedin: https://www.linkedin.com/in/suhyunim95/
